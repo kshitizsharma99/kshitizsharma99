@@ -31,7 +31,6 @@
 
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kshitizsharma99&show_icons=true&theme=react)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?kshitizsharma99&layout=compact&theme=react)
 
 ---
 
